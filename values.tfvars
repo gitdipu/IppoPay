@@ -1,0 +1,5 @@
+aws_region              = "aws-region" 
+vpc_cidr_block          = "10.0.0.0/16"
+public_subnet_cidr_block = "10.0.1.0/24"
+private_subnet_cidr_block = "10.0.2.0/24"
+ecr_repository_uri      = "your-ecr-repository-uri:latest"
